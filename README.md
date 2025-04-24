@@ -78,5 +78,5 @@ If you find this project helpful or interesting, please drop a ⭐ on the repo t
 
 ## 📜 License
 
-This project is licensed under the License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
